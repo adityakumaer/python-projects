@@ -1,8 +1,5 @@
 import random
 
-from pyparsing import line
-
-
 def create_account():
     name = input("\nEnter your name: ")
     age = input("Enter your age: ")
